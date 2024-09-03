@@ -34,7 +34,6 @@ This project implements a chatbot for hotel room bookings using Express.js and O
 ## Technologies Used
 
 - Node.js
-- Express.js
 - OpenAI API
 
 ## Contributing
