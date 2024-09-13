@@ -2,6 +2,10 @@
 
 This project implements a chatbot for hotel room bookings using Express.js and OpenAI's API.
 
+## Preview
+![Screenshot 2024-09-03 190422](https://github.com/user-attachments/assets/a2ea03fd-820e-4f13-a88d-2fe7b2bb04bd)
+
+
 ## Setup
 
 1. Clone the repository
